@@ -12,3 +12,7 @@ The script shows visitor statistics of a website via Matomo in an iOS widget: To
 Script 3: [De Lijn Departure Times Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Belgian-public-transport-information)
 
 This is a Scriptable widget that displays the next five departures from a specified stop for De Lijn, the public transport company in Flanders, Belgium.
+
+Script 4: [https://github.com/404GamerNotFound/Scriptable-IP-Ping-Widget-IOS](Server Ping Widget for Scriptable)
+
+This scriptable widget displays the ping (in milliseconds), the HTTP status code and the size of the response (in characters) for a specified URL. It also updates the time of the last check. The design is simple, with a dark background and high-contrast text colors. Ideal for a quick overview of server availability and response data.
