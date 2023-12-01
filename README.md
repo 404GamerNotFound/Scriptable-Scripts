@@ -23,3 +23,8 @@ Script 5: [GitHub Repositories Widget for Scriptable](https://github.com/404Game
 
 
 The Scriptable script creates a dynamic iOS widget that interacts with the GitHub API to fetch and display information about a specified user's repositories directly on your home screen.
+
+
+Script 6: [Minecraft Server Status Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Minecraft-Server-Status-Widget)
+
+This script creates a widget for the Scriptable app on iOS, which allows you to monitor the status of a Minecraft server. It displays key information such as whether the server is online, the approximate ping, server name, message of the day (MOTD), player slots, and the server version.
