@@ -17,3 +17,9 @@ Script 4: [Server Ping Widget for Scriptable](https://github.com/404GamerNotFoun
 
 
 This scriptable widget displays the ping (in milliseconds), the HTTP status code and the size of the response (in characters) for a specified URL. It also updates the time of the last check. The design is simple, with a dark background and high-contrast text colors. Ideal for a quick overview of server availability and response data.
+
+
+Script 5: [GitHub Repositories Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-GitHub-Info)
+
+
+The Scriptable script creates a dynamic iOS widget that interacts with the GitHub API to fetch and display information about a specified user's repositories directly on your home screen.
