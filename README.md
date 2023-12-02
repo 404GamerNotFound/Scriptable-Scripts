@@ -28,3 +28,8 @@ The Scriptable script creates a dynamic iOS widget that interacts with the GitHu
 Script 6: [Minecraft Server Status Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Minecraft-Server-Status-Widget)
 
 This script creates a widget for the Scriptable app on iOS, which allows you to monitor the status of a Minecraft server. It displays key information such as whether the server is online, the approximate ping, server name, message of the day (MOTD), player slots, and the server version.
+
+
+Script 7: [Statuscode of the Day for Scriptable](https://github.com/404GamerNotFound/Scriptable-Statuscode-of-the-Day)
+
+A Scriptable widget displaying the "HTTP Status Code of the Day" from an API. It shows the code, label, and specification link, formatted neatly.
