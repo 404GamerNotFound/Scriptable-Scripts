@@ -33,3 +33,8 @@ This script creates a widget for the Scriptable app on iOS, which allows you to 
 Script 7: [Statuscode of the Day for Scriptable](https://github.com/404GamerNotFound/Scriptable-Statuscode-of-the-Day)
 
 A Scriptable widget displaying the "HTTP Status Code of the Day" from an API. It shows the code, label, and specification link, formatted neatly.
+
+
+Script 8: [Twitch Streamer Status Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Twitch-Streamer-online-status)
+
+This is a Scriptable widget that checks and displays the online status of a specified Twitch streamer. It features a Twitch-themed design and provides a clear indication of whether the streamer is currently live.
