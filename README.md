@@ -38,3 +38,8 @@ A Scriptable widget displaying the "HTTP Status Code of the Day" from an API. It
 Script 8: [Twitch Streamer Status Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Twitch-Streamer-online-status)
 
 This is a Scriptable widget that checks and displays the online status of a specified Twitch streamer. It features a Twitch-themed design and provides a clear indication of whether the streamer is currently live.
+
+Script 9: [League of Legends Ranked Stats for Scriptable](https://github.com/404GamerNotFound/Scriptable-League-of-Legends-Ranked-Stats-Widget)
+
+
+This Scriptable widget displays the current season's ranked statistics for a specified League of Legends account, using data from the Riot Games API.
