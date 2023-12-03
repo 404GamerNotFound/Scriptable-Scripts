@@ -43,3 +43,7 @@ Script 9: [League of Legends Ranked Stats for Scriptable](https://github.com/404
 
 
 This Scriptable widget displays the current season's ranked statistics for a specified League of Legends account, using data from the Riot Games API.
+
+Script 10: [Bitcoin Price and Fear & Greed Index Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Bitcoin-price-and-Fead-and-Geed-Index)
+
+This Scriptable widget provides a quick view of the current Bitcoin price and the Crypto Fear & Greed Index, designed for iOS devices. The Bitcoin price is fetched from the Coindesk API, and the Fear & Greed Index is retrieved from the Alternative.me API. The widget also color-codes the Fear & Greed Index for intuitive visualization: green indicates greed, and red indicates fear.
