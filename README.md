@@ -47,3 +47,8 @@ This Scriptable widget displays the current season's ranked statistics for a spe
 Script 10: [Bitcoin Price and Fear & Greed Index Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Bitcoin-price-and-Fead-and-Geed-Index)
 
 This Scriptable widget provides a quick view of the current Bitcoin price and the Crypto Fear & Greed Index, designed for iOS devices. The Bitcoin price is fetched from the Coindesk API, and the Fear & Greed Index is retrieved from the Alternative.me API. The widget also color-codes the Fear & Greed Index for intuitive visualization: green indicates greed, and red indicates fear.
+
+
+Script 11: [Server Monitoring Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-Server-performance-dashboard/tree/main)
+
+This repository contains a Scriptable widget and accompanying server-side PHP scripts for real-time monitoring of server resources like CPU, RAM, disk usage, network traffic, and system information. The widget fetches data from your server via a PHP API and displays it on your iOS device.
