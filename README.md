@@ -1,5 +1,5 @@
 # Scriptable Scripts
- A List of Scriptable Scripts created by Tony Brüser.
+ A List of Scriptable Scripts created by Tony Brüser. [PayPal Donation](https://www.paypal.com/paypalme/TonyBrueser)
 
 Script 1: [IP Address Widget for Scriptable](https://github.com/404GamerNotFound/Scriptable-show-my-IP-Widget)
 
